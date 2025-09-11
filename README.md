@@ -36,9 +36,6 @@ weather-app/
 - Weather codes are mapped to SVG icons via `getWeatherIcon()` in `utils.js`  
 - Messages appear for errors (e.g., “City not found”)
 
-## 🎨 Preview
-(Add a screenshot or GIF of the weather app UI once deployed)
-
 ## 📦 Setup & Usage
 1. Clone or download this repository  
 2. Open `index.html` in your browser  
